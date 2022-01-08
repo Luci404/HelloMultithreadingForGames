@@ -1,0 +1,3 @@
+[submodule "vendor/optick"]
+	path = vendor/optick
+	url = https://github.com/Luci404/optick
